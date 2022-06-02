@@ -1,0 +1,61 @@
+{
+  "continents": [
+    { 
+      "id": 1,
+      "name": "Europa",
+      "about": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste",
+      "countries": [
+        { 
+          "name": "Reino Unido",
+          "capital": "Londres"
+        },
+        { 
+          "name": "França",
+          "capital": "París"
+        },
+        { 
+          "name": "Itália",
+          "capital": "Roma"
+        },
+        { 
+          "name": "República Tcheca",
+          "capital": "Praga"
+        },
+        { 
+          "name": "Holanda",
+          "capital": "Amsterdã"
+        }
+      ]
+    },
+    { 
+      "id": 2,
+      "name": "América do Sul",
+      "about": "A América do Sul é um continente que compreende a porção meridional da América. Também é considerada um subcontinente do continente americano.",
+      "countries-data": 50,
+      "languages": 60,
+      "cities-data": 100,
+      "countries": [
+        { 
+          "name": "Brasil",
+          "capital": "Brasília"
+        },
+        { 
+          "name": "Argentina",
+          "capital": "Buenos Aires"
+        },
+        { 
+          "name": "Colômbia",
+          "capital": "Bogotá"
+        },
+        { 
+          "name": "Peru",
+          "capital": "Lima"
+        },
+        { 
+          "name": "Chile",
+          "capital": "Santiago"
+        }
+      ]
+    }
+  ]
+}
