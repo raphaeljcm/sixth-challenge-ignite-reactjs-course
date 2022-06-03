@@ -104,7 +104,7 @@ const Home: NextPage = () => {
                   direction='column'
                   gap='4'
                 >
-                  <Link href={`continents/europe`} passHref>
+                  <Link href={`/continents/1`} passHref>
                     <ChakraLink>
                       <Heading color='gray.50' fontWeight='700' size='2xl'>Europa</Heading>
                     </ChakraLink>
@@ -126,7 +126,7 @@ const Home: NextPage = () => {
                   direction='column'
                   gap='4'
                 >
-                  <Link href={`continents/north-america`} passHref>
+                  <Link href={`/continents/north-america`} passHref>
                     <ChakraLink>
                       <Heading color='gray.50' fontWeight='700' size='2xl'>América do Norte</Heading>
                     </ChakraLink>
@@ -150,7 +150,7 @@ const Home: NextPage = () => {
                   direction='column'
                   gap='4'
                 >
-                  <Link href={`continents/south-america`} passHref>
+                  <Link href={`/continents/south-america`} passHref>
                     <ChakraLink>
                       <Heading color='gray.50' fontWeight='700' size='2xl'>América do Sul</Heading>
                     </ChakraLink>

@@ -1,5 +1,5 @@
 {
-  "continents": [
+  "data": [
     { 
       "id": 1,
       "name": "Europa",
@@ -7,23 +7,28 @@
       "countries": [
         { 
           "name": "Reino Unido",
-          "capital": "Londres"
+          "countryToImage": "reino-unido",
+          "capital": "londres"
         },
         { 
           "name": "França",
-          "capital": "París"
+          "countryToImage": "france",
+          "capital": "paris"
         },
         { 
           "name": "Itália",
-          "capital": "Roma"
+          "countryToImage": "italia",
+          "capital": "roma"
         },
         { 
           "name": "República Tcheca",
-          "capital": "Praga"
+          "countryToImage": "republica-tcheca",
+          "capital": "praga"
         },
         { 
           "name": "Holanda",
-          "capital": "Amsterdã"
+          "countryToImage": "holanda",
+          "capital": "amsterdã"
         }
       ]
     },
