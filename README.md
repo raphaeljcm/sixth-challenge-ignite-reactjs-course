@@ -20,7 +20,7 @@
 
 ## 💻 About the challenge
 
-In this challenge I had two main objectives: First one, developer all the interface from a Figma layout with Chakra UI. Second one, make the whole application responsive for mobile. I also used JSON Server and created a fake API so the data could be dinamic, and Swiper Lib to create the carousel.
+In this challenge I had two main objectives: First, develop all the interface from a Figma layout with Chakra UI. The second one, make the whole application responsive for mobile. I also used JSON Server and created a fake API so the data could be dynamic, and Swiper Lib to create the carousel.
 
 </br>
 
