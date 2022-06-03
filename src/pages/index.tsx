@@ -132,7 +132,7 @@ const Home: NextPage = () => {
                       <Heading color='gray.50' fontWeight='700' size={['xl', '2xl']}>Europa</Heading>
                     </ChakraLink>
                   </Link>
-                  <Text color='gray.50' fontWeight='700' fontSize={[20, 24]}>dasklhjdasklhdas</Text>
+                  <Text color='gray.50' fontWeight='700' fontSize={[20, 24]}>O continente mais antigo</Text>
                 </Flex>
               </Box>
             </SwiperSlide>
